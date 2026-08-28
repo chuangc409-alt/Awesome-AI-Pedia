@@ -111,7 +111,7 @@ AI 应用开发相关问题与解决方案
 
 ```bash
 # 克隆项目
-git clone https://github.com/qdleader/Awesome-AI-Pedia.git
+git clone https://github.com/chuangc409-alt/Awesome-AI-Pedia.git
 cd Awesome-AI-Pedia
 
 # 给脚本添加执行权限（仅需执行一次）
