@@ -5,7 +5,7 @@
 **一个全面的 AI 知识库与博客平台**
 
 
-[🔥 在线访问](https://qdleader.github.io/Awesome-AI-Pedia/) | [🚀 快速开始](#-快速开始) | [📚 文档](https://qdleader.github.io/Awesome-AI-Pedia/guide/)
+[🔥 在线访问](https://chuangc409‑alt.github.io/Awesome‑AI‑Pedia/) | [🚀 快速开始](#-快速开始) | [📚 文档](https://chuangc409‑alt.github.io/Awesome‑AI‑Pedia/guide/))
 
 </div>
 
