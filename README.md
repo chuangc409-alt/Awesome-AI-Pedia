@@ -137,14 +137,14 @@ chmod +x start.sh
 
 **如果这个项目对你有帮助，请给一个 ⭐ Star！**
 
-Made with ❤️ by [qdleader](https://github.com/qdleader)
+Made with ❤️ by Noah
 
 </div>
 
 <div align="center">
 <br>
 <b>
-愿AI早点成为你的最好的工作伙伴！
+愿AI能成为你的最好的工作伙伴！
 </b>
 <br>
 </div>
